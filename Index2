@@ -1,0 +1,64 @@
+<h1>Hasan Demir</h1>
+
+<h2>Hakkımda</h2>
+
+<p>
+    Merhabalar. Ben <strong> Hasan Demir </strong>. Kitap okumayı ve müzik dinlemeyi çok severim.
+    En sevdiğim kitap türleri klasik ve tarihi romanlardır.
+</p>
+
+<h3>İlgi Alanlarım</h3>
+
+<ol>
+    <li>
+        Kitap Okumak:
+        <ul style="list-style-type: Square">
+            <li>
+                Klasik
+            </li>
+            <li>
+                Tarihi Roman
+            </li>
+            <li>
+                Novel
+            </li>
+        </ul>
+    </li>
+    <li>
+        Müzik Dinlemek:
+        <ul style="list-style-type: circle">
+            <li>
+                Klasik Müzik
+            </li>
+            <li>
+                Türk Sanat Musikisi
+            </li>
+        </ul>
+    </li>
+    <li>
+        Ders Çalışmak
+        <ol type="I">
+            <li>
+                Matematik
+            </li>
+            <li>
+                Yazılım
+            </li>
+            <li>
+                Fizik
+            </li>
+        </ol>
+    </li>
+</ol>
+
+<h3>Sevdiğim Kitaplar</h3>
+
+<h4>Fahrenheit 451-<strong>RAY BRADBURY</strong></h4>
+<a href="https://www.goodreads.com/book/show/13079982-fahrenheit-451?from_search=true&from_srp=true&qid=ENNFB1QKTT&rank=1" target="_blank">
+    <img src="https://www.karahankitabevi.com/96470-home_default/fahrenheit-451.jpg" alt="Çok severim." width="300" height="300">
+</a>
+
+<h4>Karamazov Kardeşler-FYODOR MIHAYLOVIC DOSTOYEVSKY</h4>
+<a href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov?from_search=true&from_srp=true&qid=w3292R7qXQ&rank=1" target="_blank">
+    <img src="https://cdn.dsmcdn.com/ty71/product/media/images/20210217/16/64055494/142320995/0/0_org_zoom.jpg" alt="Güzel Kitap :))" width="300" height="400">
+</a>
